@@ -1,0 +1,5 @@
+{
+  "name": "Maosae Image Generator",
+  "description": "Aplikasi web untuk menghasilkan gambar menggunakan AI. Pengguna dapat memasukkan deskripsi teks untuk membuat gambar unik.",
+  "requestFramePermissions": []
+}
